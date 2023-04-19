@@ -5,10 +5,10 @@ Swift Student Challenge Submission WWDC23! 📚
 </p>
 
 <h1 align="center">
-Listen Up
+EasyLSM
 </h1>
 
-## About Listen Up ❓
+## About EasyLSM!
 Listen Up is a perfect application for those who want to improve their absolute pitch!
 
 Listen Up offers an exciting test of 7 sounds, each one belonging to a different note of the C major scale. In each test, 3 different sounds are played and the goal is to select the correct sound that corresponds to the evaluated note. But be careful! Only one of the three sounds is correct.
